@@ -1,5 +1,5 @@
 # Projeto Prático - DataTwitter Eleitoral
-Projeto realizado no evento Jornada Alem Dos Dados, oferecido por Vitor Barros
+Projeto realizado no evento Jornada Alem Dos Dados, oferecido por Victor Barros.
 
 27 a 30 de Julho de 2022 às 20h
 
